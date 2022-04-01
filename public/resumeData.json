@@ -1,45 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
-    "description": "I eat, sleep and breathe React",
+    "name": "Danial",
+    "occupation": "Student in PSMZA",
+    "description": "I eat, sleep and learn something new",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there, I am Danial Zulhakim bin Norazman! You might also know me as Danial. I start to explore about coding from 2020 until now. As a new website developer, I'm trying to learn something new to improve my knowledge about coding everyday. Along the journey I realised my passion existed in developing website and I want to pursue my dreams as upcoming developers. With this passion, I hope one day I can be a trainer who trained thousand's of new developers across the globe and I will apply my developing skills in a range of cool builds and challenges.",
+    "contactmessage": "Get in touch with me by leaving your details below 😊",
+    "email": "dafanifialfals@gmail.com",
+    "phone": "+60 126332518",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "B3-T11-U05, Jalan P16/J",
+      "city": "Putrajaya",
+      "state": "W.P.Putrajaya",
+      "zip": "62150"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://www.facebook.com/dnlzlhkm",
+    "resumedownload": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     "social": [
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "url": "https://www.youtube.com/c/5nova",
         "className": "fa fa-youtube"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/dnlzlhkm",
         "className": "fa fa-facebook"
       },
       {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/dazz1y/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/notSnova",
         "className": "fa fa-github"
       }
     ]
@@ -48,40 +43,44 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Polytechnic Sultan Mizan Zainal Abidin - Dungun, Terengganu",
+        "degree": "Diploma, Technology Digital (Information Technology)",
+        "graduated": "July 2023",
+        "description": "Graduated with 4.89 average pointers"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "SNOVA SDN BHD",
         "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "years": "December 2024 - Present",
+        "description": "On the way to be the best website developers in the world! Building the Snova Foundation as large as possible."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "30%"
       },
       {
         "name": "Python",
-        "level": "85%"
+        "level": "10%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "20%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "40%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
       }
     ]
   },
@@ -110,12 +109,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Danial is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Fareez Zulasraf"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Learning with Danial has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Wan Mazlan"
       }
     ]
   }
