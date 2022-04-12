@@ -87,10 +87,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snova NFT Challenge (React JS)",
+        "title": "NFT Marketplace (React JS)",
         "category": "",
-        "image": "snovanft.png",
+        "image": "snova-nft.png",
         "url": "https://snova-nft.vercel.app/"
+      },
+      {
+        "title": "Fighting Game (JavaScript)",
+        "category": "",
+        "image": "snova-fighting-game.png",
+        "url": "https://snova-fighting-game.vercel.app/"
       }
     ]
   },
